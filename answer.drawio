@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.0" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1426" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -333,6 +333,100 @@
             <mxPoint x="990" y="1232" as="sourcePoint" />
             <mxPoint x="1110" y="1100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ClqHdDRDbrwdyyfo0dVb" name="第 3 页">
+    <mxGraphModel dx="1188" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="igQTg8TMcD3tvetnq2dI-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="630" width="1510" x="200" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="包埋盒存储机构" vertex="1">
+          <mxGeometry height="50" width="100" x="250" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="360" x="250" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="使能" vertex="1">
+          <mxGeometry height="30" width="50" x="280" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="失能" vertex="1">
+          <mxGeometry height="30" width="50" x="350" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="零点微调" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="零点保存" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-15" edge="1" parent="1" source="igQTg8TMcD3tvetnq2dI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="igQTg8TMcD3tvetnq2dI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-16" connectable="0" parent="igQTg8TMcD3tvetnq2dI-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="6个" vertex="1">
+          <mxGeometry relative="1" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="包埋盒1" vertex="1">
+          <mxGeometry height="30" width="70" x="280" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="输入框" vertex="1">
+          <mxGeometry height="30" width="70" x="390" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="定位1" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="80" x="275" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="包埋盒推出机构" vertex="1">
+          <mxGeometry height="50" width="100" x="660" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="360" x="650" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="复位" vertex="1">
+          <mxGeometry height="30" width="60" x="670" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="推出位置" vertex="1">
+          <mxGeometry height="30" width="60" x="670" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="输入框" vertex="1">
+          <mxGeometry height="30" width="70" x="760" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="测试按钮" vertex="1">
+          <mxGeometry height="30" width="60" x="880" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="输入框" vertex="1">
+          <mxGeometry height="30" width="70" x="760" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="测试按钮" vertex="1">
+          <mxGeometry height="30" width="60" x="880" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="包埋盒阻挡开" vertex="1">
+          <mxGeometry height="30" width="90" x="690" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="包埋盒阻挡关" vertex="1">
+          <mxGeometry height="30" width="90" x="840" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="360" x="1060" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="储存位置包埋盒测试" vertex="1">
+          <mxGeometry height="30" width="150" x="1080" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="打号位置包埋盒测试" vertex="1">
+          <mxGeometry height="30" width="150" x="1080" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="1310" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="igQTg8TMcD3tvetnq2dI-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="1310" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
